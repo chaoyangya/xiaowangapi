@@ -1,0 +1,41 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "test_xiaowang",
+    "children" : [ {
+      "name" : "test_api",
+      "children" : [ {
+        "name" : "TestApi",
+        "children" : [ {
+          "name" : "test_add",
+          "uid" : "a9ec662e0f9f3eb2",
+          "parentUid" : "338d13cd305bff74d6f351aa729affda",
+          "status" : "passed",
+          "time" : {
+            "start" : 1599100089394,
+            "stop" : 1599100089394,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_jian",
+          "uid" : "d5d118896487e8d",
+          "parentUid" : "338d13cd305bff74d6f351aa729affda",
+          "status" : "passed",
+          "time" : {
+            "start" : 1599100089396,
+            "stop" : 1599100089397,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "338d13cd305bff74d6f351aa729affda"
+      } ],
+      "uid" : "9ba3d4dd6731e12428a1b9c196ceeb43"
+    } ],
+    "uid" : "a4a9b064e58ae187e7167cb541053a52"
+  } ],
+  "name" : "suites"
+}

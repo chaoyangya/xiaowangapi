@@ -1,0 +1,3 @@
+"Status","Name","Duration in ms","Description"
+"passed","test_xiaowang.test_api.TestApi#test_jian","1",""
+"passed","test_xiaowang.test_api.TestApi#test_add","0",""

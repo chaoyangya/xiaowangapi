@@ -1,0 +1,37 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "children" : [ {
+    "name" : "cywhat.local",
+    "children" : [ {
+      "name" : "24567-MainThread",
+      "children" : [ {
+        "name" : "test_jian",
+        "uid" : "d5d118896487e8d",
+        "parentUid" : "f94943da2b08e7209addcac867f32266",
+        "status" : "passed",
+        "time" : {
+          "start" : 1599100089396,
+          "stop" : 1599100089397,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_add",
+        "uid" : "a9ec662e0f9f3eb2",
+        "parentUid" : "f94943da2b08e7209addcac867f32266",
+        "status" : "passed",
+        "time" : {
+          "start" : 1599100089394,
+          "stop" : 1599100089394,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f94943da2b08e7209addcac867f32266"
+    } ],
+    "uid" : "7d269dcaa0184f31f01b4375a6e7d6c5"
+  } ],
+  "name" : "timeline"
+}
