@@ -24,3 +24,7 @@ class TestApi:
         assert c == 1
 
 
+
+if __name__ == '__main__':
+    pytest.main(['-v', 'test_exercise.py::TestExerciseMent'])
+

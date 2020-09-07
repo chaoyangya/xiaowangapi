@@ -1,5 +1,5 @@
 {
-  "uid" : "a9ec662e0f9f3eb2",
+  "uid" : "6d0822d7705b3c74",
   "name" : "test_add",
   "fullName" : "test_xiaowang.test_api.TestApi#test_add",
   "historyId" : "4ed88c5b5dee494864cbc8a71b9bf2c4",
@@ -48,22 +48,12 @@
   } ],
   "parameters" : [ ],
   "links" : [ ],
-  "hidden" : false,
-  "retry" : false,
+  "hidden" : true,
+  "retry" : true,
   "extra" : {
-    "severity" : "normal",
-    "retries" : [ {
-      "uid" : "2ff8e62f11ea3dc",
-      "status" : "passed",
-      "time" : {
-        "start" : 1599100055743,
-        "stop" : 1599100055743,
-        "duration" : 0
-      }
-    } ],
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "a9ec662e0f9f3eb2.json",
+  "source" : "6d0822d7705b3c74.json",
   "parameterValues" : [ ]
 }

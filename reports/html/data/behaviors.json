@@ -1,30 +1,31 @@
 {
   "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
   "children" : [ {
     "name" : "练习jenkins",
     "children" : [ {
       "name" : "练习列表--修改练习",
       "children" : [ {
         "name" : "test_add",
-        "uid" : "a9ec662e0f9f3eb2",
+        "uid" : "1ac5df120d3fde96",
         "parentUid" : "c7ed9d6a3492e281d2864a933f00eb00",
         "status" : "passed",
         "time" : {
-          "start" : 1599100089394,
-          "stop" : 1599100089394,
+          "start" : 1599463408277,
+          "stop" : 1599463408277,
           "duration" : 0
         },
         "flaky" : false,
         "parameters" : [ ]
       }, {
         "name" : "test_jian",
-        "uid" : "d5d118896487e8d",
+        "uid" : "cec9d3290b9d0174",
         "parentUid" : "c7ed9d6a3492e281d2864a933f00eb00",
         "status" : "passed",
         "time" : {
-          "start" : 1599100089396,
-          "stop" : 1599100089397,
-          "duration" : 1
+          "start" : 1599463408279,
+          "stop" : 1599463408279,
+          "duration" : 0
         },
         "flaky" : false,
         "parameters" : [ ]
@@ -32,6 +33,5 @@
       "uid" : "c7ed9d6a3492e281d2864a933f00eb00"
     } ],
     "uid" : "667cdcd73ade657d51da748bf36ab901"
-  } ],
-  "name" : "behaviors"
+  } ]
 }

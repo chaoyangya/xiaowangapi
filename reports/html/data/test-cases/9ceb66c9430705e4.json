@@ -1,0 +1,59 @@
+{
+  "uid" : "9ceb66c9430705e4",
+  "name" : "test_add",
+  "fullName" : "test_xiaowang.test_api.TestApi#test_add",
+  "historyId" : "4ed88c5b5dee494864cbc8a71b9bf2c4",
+  "time" : {
+    "start" : 1599463110363,
+    "stop" : 1599463110363,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "练习列表--修改练习"
+  }, {
+    "name" : "feature",
+    "value" : "练习jenkins"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_xiaowang"
+  }, {
+    "name" : "suite",
+    "value" : "test_api"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestApi"
+  }, {
+    "name" : "host",
+    "value" : "cywhat.local"
+  }, {
+    "name" : "thread",
+    "value" : "41562-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_xiaowang.test_api"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9ceb66c9430705e4.json",
+  "parameterValues" : [ ]
+}
